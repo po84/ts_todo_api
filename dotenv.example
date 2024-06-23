@@ -1,0 +1,4 @@
+MONGO_DB_USER=db_user
+MONGO_DB_PASSWORD=db_password
+MONGO_DB_CLUSTER=cluster_name
+PORT=4000
